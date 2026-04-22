@@ -14,12 +14,10 @@ These codes are very useful when I move forward with my Java Two course. It's ea
 
 ## Current Projects
 
-(More modules to be added as the semester progresses)\_
+*(More modules to be added as the semester progresses)*
 
 ## Tech Stack
 
 Although it's been 6 years since I've touched HTML, CSS, and JavaScript, I do remember picking it up extremely easily. I think I remember completing the basic CSS in Udemy in 1 or 2 days. At the moment, I am still learning the fundamentals of Java, but I am picking it up quite quickly—likely because I am extremely interested and motivated in anything logic or coding related that I can use in my future cybersecurity or tech career, or maybe just building my own life calculator (yes, I know this is vague, because it is. Life calculator could be finance, electricity usage, amount of exercise done per month, etc.)
-
-Now, do you want to see the AI generated version??? Because I think Google Gemini knows me pretty darn well (excuse the unprofessionalism):
 
 //Added note and signed edit – Joshua Hoagland
