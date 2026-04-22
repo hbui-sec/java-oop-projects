@@ -1,0 +1,4 @@
+Item: iPhone 18 Pro Max
+Price: 2000.0
+Quantity: 10
+Total: $20000.0
